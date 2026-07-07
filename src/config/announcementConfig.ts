@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "欢迎来到我的博客！这是一则示例公告。",
+	content: "欢迎来到 VA11-HALLA酒馆！这里将持续分享计算机图形学、GPU 编程、实时渲染等相关内容。点一杯特调，一起体验图形学的魅力~",
 
 	// 是否允许用户关闭公告
 	closable: true,
